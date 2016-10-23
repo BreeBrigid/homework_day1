@@ -1,0 +1,39 @@
+body {
+	background-color: rgb(160, 82, 45);
+}
+
+img {
+	height: 100px;
+	width: 100px;
+	border-color: 1px solid black;
+	border-radius: 110px;
+}
+
+.menu {
+	display: block;
+	right: 0;
+	height: 50px;
+}
+
+.con {
+	width: 100px;
+	padding: 5px 5px;
+	margin:	10px auto;
+	display: inline;
+	right: auto;
+}
+
+.com {
+	width: 100px;
+	padding: 5px 5px;
+	margin:	10px auto;
+	display: inline;
+	right: auto;
+}
+
+p {
+	text-align: center;
+	border-color: white;
+	width: 5px;
+	display: inline;  
+}
